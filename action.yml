@@ -1,0 +1,6 @@
+# action.yml
+name: 'dvc-action-docker'
+description: ''
+runs:
+  using: 'docker'
+  image: 'davidgortega/dvc:0.1.5'
